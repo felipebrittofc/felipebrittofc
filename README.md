@@ -1,9 +1,15 @@
-- 👋 Oi, eu sou @felipebrittofc
-- 👀 Estou interessado em ...
-- 🌱 Atualmente estou aprendendo ...
-- 💞️ Estou procurando colaborar em ...
-- 📫 Como entrar em contato comigo 21991875201
-- 😄 Pronomes: ...
+👋 Olá, eu sou Felipe Britto!
+
+🚀 Desenvolvedor Front-End formado pelo Senac Rio.
+🎯 Aprimorando minhas habilidades em Git & GitHub e explorando novas tecnologias.
+💡 Apaixonado por tecnologia, liderança e inovação.
+🔗 Buscando aprender, colaborar e contribuir com projetos incríveis.
+
+📬 Como me encontrar?
+
+📩 E-mail: felipebrittoadm@gmail.com
+
+💬 Vamos conectar?
 
 <!---
 felipebrittofc/felipebrittofc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
